@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.acessar-button {
+  width: 200px;
+  padding: 15px;
+  background-color: #19a093;
+  border: none;
+  color: white;
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 5px;
+  cursor: pointer;
+}

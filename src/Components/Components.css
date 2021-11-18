@@ -1,0 +1,23 @@
+.component-input-label {
+  text-align: left;
+  margin-bottom: 5px;
+  display:block
+}
+
+.component-input-input {
+  display: block;
+  width: 200px;
+
+}
+
+.component-input-container {
+  padding-bottom: 25px;
+  max-width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+
+.header {
+  width: 200px;
+  background-color: #4787b3;
+}
